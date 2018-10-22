@@ -1,2 +1,2 @@
 # Frostfire
-Playground app consuming Battle.net game API
+Playground app consuming Hearthstone API
